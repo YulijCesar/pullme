@@ -1,4 +1,4 @@
-# Система контроля версий
+## Система контроля версий
 
 <image src="/GIT_LESSON2/img1.png" alt="gitpict">
 
